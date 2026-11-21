@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+tmp/
+public/audio/
+public/data/
+materials_txt/
+__pycache__/
+*.pyc
+.env
+.env.local
+.claude/settings.local.json
+.claude/*.lock
+scripts/answer-keys/*.json
